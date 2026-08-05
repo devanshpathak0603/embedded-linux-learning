@@ -1,0 +1,4 @@
+Sensor status: ready=1, error=0, mode=2
+Raw readings: 7 14 21 28 35 
+Sensor status: ready=1, error=0, mode=2
+Average reading: 21
